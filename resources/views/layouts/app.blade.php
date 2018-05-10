@@ -156,6 +156,15 @@
         </div>
     </div>
 
+
+    <div class="panel panel-default">
+        <div class="panel-footer text-center">copyright&copy;nemanja.develop 2018</div>
+    </div>
+
+
+
+
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
     {{--toastr js--}}
