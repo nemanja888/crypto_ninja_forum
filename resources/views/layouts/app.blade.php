@@ -125,6 +125,9 @@
                                     <li class="list-group-item">
                                         <a href="{{ route('channels.index') }}" style="text-decoration: none;">All Channels</a>
                                     </li>
+                                    <li class="list-group-item">
+                                        <a href="{{ route('channels.create') }}" style="text-decoration: none;">Add Channel</a>
+                                    </li>
                                 </ul>
                             </div>
                         @endif
